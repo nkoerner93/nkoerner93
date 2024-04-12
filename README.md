@@ -8,7 +8,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="300"/>
 
 
-- 🔭 Software-Engineer - Freelancing: NK-Weabgentur
+- 🔭 Software-Engineer - Freelancing: NK-Webagentur
 - 🔭 Previously Web-Developer/Ecommerce Manager @ Yoda Media GmbH.
 - 🤔 Currently focussing on NextJS/React/PostgreSQL
 - ⌨️ Looking for new 95%/100% remote opportunities.
