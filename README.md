@@ -8,12 +8,12 @@
 <img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="300"/>
 
 
-- 🔭 I’m currently self-employed (4 years) @ NK Webagentur
+- 🔭 Software-Engineer - Freelancing: NK-Weabgentur
 - 🔭 Previously Web-Developer/Ecommerce Manager @ Yoda Media GmbH.
-- 🤔 Currently focussing on NextJS
+- 🤔 Currently focussing on NextJS/React/PostgreSQL
+- ⌨️ Looking for new 95%/100% remote opportunities.
 - 💬 Ask me just about anything. I am happy to help.
 - 📫 How to reach me: nk.webdevs@gmail.com
-<br/>
 <br/>
 </p>
 
@@ -24,13 +24,15 @@
 </br>
 
 <!-- Tacke Privathotels -->
-<img align="left" alt="GIF" style="vertical-align:top" src="https://github.com/nkoerner93/nkoerner93/assets/47701736/34f11389-79fe-4f11-8e94-aaf7063377db" width="125"/>
+[<img align="left" alt="GIF" style="vertical-align:top" src="https://github.com/nkoerner93/nkoerner93/assets/47701736/34f11389-79fe-4f11-8e94-aaf7063377db" width="125"/>](https://tacke-privathotels.de)
 <!-- Future GmbH -->
-<img align="left" alt="GIF" style="vertical-align:middle" src="https://github.com/nkoerner93/nkoerner93/assets/47701736/9486e27d-54a4-4e2c-85fa-d26943f7c6d4" width="100"/>
+[<img align="left" alt="GIF" style="vertical-align:middle" src="https://github.com/nkoerner93/nkoerner93/assets/47701736/9486e27d-54a4-4e2c-85fa-d26943f7c6d4" width="100"/>](https://futuregmbh.eu)
 <!-- xseed.works -->
-<img align="left" alt="GIF" style="vertical-align:middle" src="https://github.com/nkoerner93/nkoerner93/assets/47701736/7944b509-ab47-4bcb-92b1-5a139f03dfec" width="125"/> 
+[<img align="left" alt="GIF" style="vertical-align:middle" src="https://github.com/nkoerner93/nkoerner93/assets/47701736/7944b509-ab47-4bcb-92b1-5a139f03dfec" width="125"/>](https://xseed.works)
 <!-- PBCN -->
-<img align="left" alt="GIF" style="vertical-align:middle" src="https://github.com/nkoerner93/nkoerner93/assets/47701736/8c1d60b5-077d-458c-a71f-17e154618e3f" width="125"/> 
+[<img align="left" alt="GIF" style="vertical-align:middle" src="https://github.com/nkoerner93/nkoerner93/assets/47701736/8c1d60b5-077d-458c-a71f-17e154618e3f" width="125"/>](https://pbcn.de)
+<!-- Wecotel -->
+[<img align="left" alt="GIF" style="vertical-align:middle" src="https://github.com/nkoerner93/nkoerner93/assets/47701736/09a91490-943d-465b-ab91-3b3bb4e7fd1f" width="240"/>](https://wecotel.de)
 
 <br/>
 <br/>
