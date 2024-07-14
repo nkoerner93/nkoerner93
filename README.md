@@ -5,9 +5,6 @@
 ![Visits Badge](https://badges.pufler.dev/visits/nkoerner93/nkoerner93?style=for-the-badge)
 
 <p>
-
-
-
 - 🔭 Software-Engineer - Freelancing: NK-Webagentur
 - 🔭 Previously Web-Developer/Ecommerce Manager @ Yoda Media GmbH.
 - 🤔 Currently focussing on NextJS/React/PostgreSQL
