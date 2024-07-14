@@ -5,7 +5,7 @@
 ![Visits Badge](https://badges.pufler.dev/visits/nkoerner93/nkoerner93?style=for-the-badge)
 
 <p>
-<img align="right" alt="GIF" src="https://github.com/abhishek-choudharys/blender-projects/blob/main/Plexus/plexus.gif" width="300"/>
+
 
 
 - 🔭 Software-Engineer - Freelancing: NK-Webagentur
