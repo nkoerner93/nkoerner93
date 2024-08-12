@@ -1,6 +1,3 @@
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicolas-körner/) [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:nk.webdevs@gmail.com) 
 ![Visits Badge](https://badges.pufler.dev/visits/nkoerner93/nkoerner93?style=for-the-badge)
 
