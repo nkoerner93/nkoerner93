@@ -6,7 +6,7 @@
 
 <p>
   
-- 🔭 Software-Engineer - Freelancing: NK-Webagentur
+- 🔭 Software-Engineer - Freelancing: 12digital.de
 - 🔭 Previously Web-Developer/Ecommerce Manager @ Yoda Media GmbH.
 - 🤔 Currently focussing on NextJS/React/PostgreSQL
 - ⌨️ Looking for new 95%/100% remote opportunities.
