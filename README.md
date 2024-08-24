@@ -50,5 +50,6 @@
 - Tacke Privathotels: https://tacke-privathotels.de
 - FutureGmbH Relaunch: https://futuregmbh.eu
 - xseed.works: https://www.xseed.works
+- Skippidoo Onlineshop: https://skippidoo.de
 
 </font>
