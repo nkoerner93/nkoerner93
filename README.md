@@ -14,7 +14,7 @@
 </p>
 
 ## Tech Stack:
-(https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,nextjs,prisma,postgres,cypress)
+![MySkills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,nextjs,prisma,postgres,cypress)
 
 ## Recent clients:
 </br>
