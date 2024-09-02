@@ -23,7 +23,7 @@
 
 ## Current personal projects:
 
-![spark](https://github.com/user-attachments/assets/c0d95cc0-4e15-4434-a301-9fcb6293a112)
+![spark2](https://github.com/user-attachments/assets/b5ce01f8-3a3b-40ca-ac10-fed8fefea7b6)
 
 
 ## Recent projects:
