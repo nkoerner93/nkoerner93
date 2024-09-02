@@ -21,7 +21,7 @@
 
 </p>
 
-## Recent clients:
+## Recent projects:
 
 </br>
 <p>
