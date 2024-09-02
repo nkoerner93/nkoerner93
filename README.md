@@ -6,7 +6,7 @@
 - 🔭 Software-Engineer - Freelancing: 12digital.de
 - 🔭 Previously Web-Developer/Ecommerce Manager @ Yoda Media GmbH.
 - 🤔 Currently focussing on NextJS/React/PostgreSQL
-- ⌨️ Looking for new 95%/100% remote opportunities.
+- ⌨️ Looking for new hybrid/remote opportunities.
 - 💬 Ask me just about anything. I am happy to help.
 - 📫 How to reach me: nk@12digital.de
 <br/>
