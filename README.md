@@ -25,6 +25,7 @@
 
 ![spark3](https://github.com/user-attachments/assets/c939a2ae-5270-41b4-ace0-6d6a70ed7f08)
 
+Entertainment & Productivity Dashboard built with Next.js, Tailwind, PostgreSQL (vercel serverless), Prisma & RadixUI / Shad-CN, custom iron-sessions authentication & external APIs.
 
 ## Recent projects:
 
