@@ -16,11 +16,12 @@
 <p>
 ## Tech Stack:
 ![MySkills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,nextjs,prisma,postgres,cypress)
+</p>
 
 ## Recent clients:
 
 </br>
-
+<p>
 <!-- SkippiDoo Onlineshop -->
 
 [<img align="left" alt="GIF" style="vertical-align:middle" src="https://github.com/user-attachments/assets/dee8de86-fa88-4fa3-99bd-1dc0a79597cc" width="125"/>](https://skippidoo.de)
@@ -45,6 +46,7 @@
 
 [<img align="left" alt="GIF" style="vertical-align:middle" src="https://github.com/nkoerner93/nkoerner93/assets/47701736/09a91490-943d-465b-ab91-3b3bb4e7fd1f" width="240"/>](https://wecotel.de)
 
+</p>
 <br/>
 <br/>
 <br/>
