@@ -12,7 +12,7 @@
 <br/>
 
 </p>
-
+<p>
 ## Tech Stack:
 ![MySkills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,ts,react,nextjs,prisma,postgres,cypress)
 
