@@ -20,7 +20,7 @@
 </br>
 
 <!-- SkippiDoo Onlineshop -->
-<div style="display:flex">
+
 [<img align="left" alt="GIF" style="vertical-align:middle" src="https://github.com/user-attachments/assets/dee8de86-fa88-4fa3-99bd-1dc0a79597cc" width="125"/>](https://skippidoo.de)
 <!-- Tacke Privathotels -->
 [<img align="left" alt="GIF" style="vertical-align:middle" src="https://github.com/nkoerner93/nkoerner93/assets/47701736/34f11389-79fe-4f11-8e94-aaf7063377db" width="125"/>](https://tacke-privathotels.de)
@@ -32,7 +32,6 @@
 [<img align="left" alt="GIF" style="vertical-align:middle" src="https://github.com/nkoerner93/nkoerner93/assets/47701736/8c1d60b5-077d-458c-a71f-17e154618e3f" width="125"/>](https://pbcn.de)
 <!-- Wecotel -->
 [<img align="left" alt="GIF" style="vertical-align:middle" src="https://github.com/nkoerner93/nkoerner93/assets/47701736/09a91490-943d-465b-ab91-3b3bb4e7fd1f" width="240"/>](https://wecotel.de)
-</div>
 
 <br/>
 <br/>
