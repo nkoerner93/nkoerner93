@@ -3,7 +3,7 @@
 
 <p>
   
-- 🔭 Software-Engineer - Freelancing: 12digital.de
+- 🔭 Software-Engineer
 - 🔭 Previously Web-Developer/Ecommerce Manager @ Yoda Media GmbH.
 - 🤔 Currently focussing on NextJS/React/PostgreSQL
 - ⌨️ Looking for new hybrid/remote opportunities.
