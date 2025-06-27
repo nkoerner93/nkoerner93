@@ -8,7 +8,7 @@
 - 🤔 Currently focussing on NextJS/React/PostgreSQL
 - ⌨️ Looking for new hybrid/remote opportunities.
 - 💬 Ask me just about anything. I am happy to help.
-- 📫 How to reach me: nk@12digital.de
+- 📫 How to reach me: nk.webdevs@gmail.com
 <br/>
 
 </p>
