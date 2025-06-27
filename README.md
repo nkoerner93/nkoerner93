@@ -3,7 +3,7 @@
 
 <p>
   
-- 🔭 Software-Engineer
+- 🔭 Software-Engineer @ agentbase AG Germany
 - 🔭 Previously Web-Developer/Ecommerce Manager @ Yoda Media GmbH.
 - 🤔 Currently focussing on NextJS/React/PostgreSQL
 - ⌨️ Looking for new hybrid/remote opportunities.
